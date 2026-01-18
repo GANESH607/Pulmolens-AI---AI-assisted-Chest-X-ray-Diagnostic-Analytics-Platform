@@ -63,7 +63,7 @@ MongoDB Atlas
 - Task: Binary Classification (NORMAL vs PNEUMONIA)
 
 ---
-Technology Stack
+##Technology Stack
 
 Programming Language: Python
 
@@ -80,18 +80,19 @@ Data Visualization: Matplotlib
 PDF Report Generation: ReportLab
 
 Version Control: Git & Git LFS
-
-Project Owner
+--
+##Project Owner
 
 Ganesh Ilango
 AI / Machine Learning Developer
 
 Project: PulmoLens AI – AI-Assisted Chest X-ray Diagnostic & Clinical Analytics Platform
-
-License
+--
+##License
 
 This project is developed for academic and research purposes only.
 
 All rights are reserved by the author.
 The system is not intended for clinical deployment and must not be used as a
 substitute for professional medical diagnosis or treatment.
+
