@@ -76,7 +76,7 @@ MongoDB Atlas
   "report_text": "Structured radiology-style report",
   "created_at": "2026-01-18T11:55:10Z"
 }
-
+--
 Technology Stack
 
 Frontend: Streamlit
@@ -90,19 +90,20 @@ Database: MongoDB Atlas
 Visualization: Matplotlib
 
 Report Generation: ReportLab
-
+--
 Disclaimer
 
 This project is intended strictly for educational and research purposes.
 It does not replace professional medical diagnosis or clinical decision-making.
-
+--
 Author
 
 Ganesh Ilango
 Project: PulmoLens AI
-
+--
 License
 
 This project is released for academic and research use only.
+
 
 
